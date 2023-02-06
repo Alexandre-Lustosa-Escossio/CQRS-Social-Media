@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8gXEHeDIHXGwSSm1uRDvtSPeZ0pcVk6ZPdySeuSV8BVJsB4o+826BBTgBWYXbIe4FuKZWytQRI/FMQPH49cgAw==",
+  "dgSpecHash": "ysh9qgKYFkplPEN566nCesiSF+SsgkYNPWSKybAMBRTllkNjFN3dOruwllOiFPABisAiCfREY/Tec+7+zhHeNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
   "expectedPackageFiles": [],
