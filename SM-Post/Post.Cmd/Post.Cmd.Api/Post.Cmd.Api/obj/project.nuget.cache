@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aXl1BY4t+dakDt3u1FUVCxtEnLl7P4YHL/6IfRIAShtDQuAKGz7/9dCBaHF6TJwNbIyaHl34buhzc3EESKCXlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alees\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\alees\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\alees\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\alees\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\alees\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\alees\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
