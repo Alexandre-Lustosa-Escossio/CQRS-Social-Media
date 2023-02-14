@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CQRS-ES\\CQRS.Core",
+    "\\CQRS-ES\\CQRS.Core\\CQRS.Core",
+    "\\SM-Post\\Post.Cmd",
+    "\\SM-Post\\Post.Cmd\\Post.Cmd.Domain",
+    "\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain",
+    "\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Aggregates"
+  ],
+  "SelectedNode": "\\SM-Post",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,12 @@
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\bin\Debug\net6.0\CQRS.Core.deps.json
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\bin\Debug\net6.0\CQRS.Core.dll
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\bin\Debug\net6.0\CQRS.Core.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.AssemblyReference.cache
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net6.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfoInputs.cache
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net6.0\CQRS.Core.AssemblyInfo.cs
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net6.0\CQRS.Core.csproj.CoreCompileInputs.cache
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net6.0\CQRS.Core.dll
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net6.0\refint\CQRS.Core.dll
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net6.0\CQRS.Core.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\CQRS-ES\CQRS.Core\CQRS.Core\obj\Debug\net6.0\ref\CQRS.Core.dll

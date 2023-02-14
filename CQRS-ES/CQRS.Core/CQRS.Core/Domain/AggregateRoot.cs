@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CQRS.Core.Events;
+using System;
 
 public abstract class AggregateRoot{
 	protected Guid _id { get; set; }
@@ -43,9 +44,9 @@ public abstract class AggregateRoot{
 		ApplyChanges( @event, true );
 	}
 
-	public void ReplayEvents(IEnumerable<BaseEvent>)
+	public void ReplayEvents(IEnumerable<BaseEvent> replayEvents)
 	{
-		foreach (var @event in ReplayEvents)
+		foreach (var @event in replayEvents)
 		{
 			ApplyChanges(@event, false);
 		}
