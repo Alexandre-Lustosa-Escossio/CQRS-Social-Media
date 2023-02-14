@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Vp+pUqQehwOvnqc3b+5CwADyDvje0yssR3B5eKwgC8gMtyDK3+3AHtK7d6qpJrBxTGtzhR1wpo/tK4jY2WqKhA==",
+  "dgSpecHash": "Zd+S/VLtjK/F7M8B4pMmzwClX7NcDJ6C9xJVRBCztkAyKUL+mOiDgrkXvpHZioRFkfTlPoRN9pv2tUiPwfFzlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jessi\\.nuget\\packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
+    "C:\\Users\\jessi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

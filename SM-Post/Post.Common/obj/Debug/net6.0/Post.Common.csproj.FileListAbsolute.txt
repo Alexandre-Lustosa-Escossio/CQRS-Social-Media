@@ -1,0 +1,15 @@
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.deps.json
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\bin\Debug\net6.0\Post.Common.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\bin\Debug\net6.0\CQRS.Core.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.AssemblyReference.cache
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfoInputs.cache
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.AssemblyInfo.cs
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CoreCompileInputs.cache
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.csproj.CopyComplete
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\obj\Debug\net6.0\refint\Post.Common.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\obj\Debug\net6.0\Post.Common.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Common\obj\Debug\net6.0\ref\Post.Common.dll

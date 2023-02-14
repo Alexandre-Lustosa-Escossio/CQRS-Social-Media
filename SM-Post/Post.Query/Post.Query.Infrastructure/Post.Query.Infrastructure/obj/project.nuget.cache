@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n+YT5RQQMB5k9Wa/jbWgRuRZPjCsI8OvbsoO9Cf4ls7XZZPuyJSlUkRez3h6isv7UV05kRxbJKeNmtVFPGXWCw==",
+  "dgSpecHash": "23B8qF/s2mtRV2K/ZHDlQ7ftIBCyho9UP/qh3kW0teeF25AnBJoY3PrFFbPNCPekb+El9N5ohgeet0Z7Rx63xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

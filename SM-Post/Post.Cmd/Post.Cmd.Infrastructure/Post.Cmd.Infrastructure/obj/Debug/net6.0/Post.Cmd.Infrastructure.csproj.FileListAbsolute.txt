@@ -1,0 +1,15 @@
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Infrastructure.deps.json
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Infrastructure.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Infrastructure.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\bin\Debug\net6.0\CQRS.Core.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.AssemblyInfo.cs
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.csproj.CopyComplete
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\refint\Post.Cmd.Infrastructure.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\ref\Post.Cmd.Infrastructure.dll

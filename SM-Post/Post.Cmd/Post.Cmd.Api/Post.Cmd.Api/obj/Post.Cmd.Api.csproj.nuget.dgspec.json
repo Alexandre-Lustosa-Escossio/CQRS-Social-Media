@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {}
+    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
+    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj",
+        "projectUniqueName": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj",
         "projectName": "CQRS.Core",
-        "projectPath": "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj",
-        "packagesPath": "C:\\Users\\alees\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core\\obj\\",
+        "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj",
+        "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alees\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,21 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {
+    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+        "projectUniqueName": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
         "projectName": "Post.Cmd.Api",
-        "projectPath": "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
-        "packagesPath": "C:\\Users\\alees\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\obj\\",
+        "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+        "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alees\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +89,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
-                "projectPath": "C:\\Users\\alees\\OneDrive\\Área de Trabalho\\Alexandre\\CQRS & Event Sourcing with Kafka\\Project\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
+              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
+              },
+              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj"
               }
             }
           }
@@ -123,7 +132,76 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "projectName": "Post.Cmd.Infrastructure",
+        "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

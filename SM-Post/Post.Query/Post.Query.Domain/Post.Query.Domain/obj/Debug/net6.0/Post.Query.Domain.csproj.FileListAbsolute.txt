@@ -1,0 +1,12 @@
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\bin\Debug\net6.0\Post.Query.Domain.deps.json
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\bin\Debug\net6.0\Post.Query.Domain.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\bin\Debug\net6.0\Post.Query.Domain.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.csproj.AssemblyReference.cache
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.AssemblyInfoInputs.cache
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.AssemblyInfo.cs
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\obj\Debug\net6.0\refint\Post.Query.Domain.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\obj\Debug\net6.0\Post.Query.Domain.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Domain\Post.Query.Domain\obj\Debug\net6.0\ref\Post.Query.Domain.dll

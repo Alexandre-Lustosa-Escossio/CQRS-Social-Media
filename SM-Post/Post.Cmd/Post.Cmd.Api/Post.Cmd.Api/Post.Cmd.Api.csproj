@@ -10,4 +10,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\CQRS-ES\CQRS.Core\CQRS.Core\CQRS.Core.csproj" />
+    <ProjectReference Include="..\..\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
