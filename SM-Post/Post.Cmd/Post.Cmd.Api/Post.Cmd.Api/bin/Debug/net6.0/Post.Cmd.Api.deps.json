@@ -242,14 +242,32 @@
           "CQRS.Core.dll": {}
         }
       },
+      "Post.Cmd.Domain/1.0.0": {
+        "dependencies": {
+          "CQRS.Core": "1.0.0",
+          "Post.Common": "1.0.0"
+        },
+        "runtime": {
+          "Post.Cmd.Domain.dll": {}
+        }
+      },
       "Post.Cmd.Infrastructure/1.0.0": {
         "dependencies": {
           "CQRS.Core": "1.0.0",
           "Microsoft.Extensions.Options": "7.0.0",
-          "MongoDB.Driver": "2.19.0"
+          "MongoDB.Driver": "2.19.0",
+          "Post.Cmd.Domain": "1.0.0"
         },
         "runtime": {
           "Post.Cmd.Infrastructure.dll": {}
+        }
+      },
+      "Post.Common/1.0.0": {
+        "dependencies": {
+          "CQRS.Core": "1.0.0"
+        },
+        "runtime": {
+          "Post.Common.dll": {}
         }
       }
     }
@@ -447,7 +465,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Post.Cmd.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Post.Cmd.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Post.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

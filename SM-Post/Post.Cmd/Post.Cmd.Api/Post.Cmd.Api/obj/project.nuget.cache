@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aXcaKUIVu55TYCqlLOD93SQZgleIe/cxJ1JUdR4IoYrW6XIiISPM9RdugEUg4zn9msC+EDu3bFJ+cPQEZfTyGQ==",
+  "dgSpecHash": "ofX+XjSytq8620fQndwftiB4CNRCHzT5qWM2SyS9a601QfwW2ssZJYRFm+4oTOd8H33dyuKQKfnqG+ljilaHDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
   "expectedPackageFiles": [

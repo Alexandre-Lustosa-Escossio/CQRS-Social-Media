@@ -50,3 +50,7 @@ C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Api\Post.Cmd.Api\b
 C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Api\Post.Cmd.Api\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
 C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Api\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Infrastructure.dll
 C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Api\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Infrastructure.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Api\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Domain.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Api\Post.Cmd.Api\bin\Debug\net6.0\Post.Common.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Api\Post.Cmd.Api\bin\Debug\net6.0\Post.Cmd.Domain.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Api\Post.Cmd.Api\bin\Debug\net6.0\Post.Common.pdb

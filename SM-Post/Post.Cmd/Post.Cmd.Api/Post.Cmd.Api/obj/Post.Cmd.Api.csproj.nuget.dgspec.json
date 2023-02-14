@@ -136,6 +136,68 @@
         }
       }
     },
+    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+        "projectName": "Post.Cmd.Domain",
+        "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+        "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
+              },
+              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj": {
+                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -144,6 +206,78 @@
         "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
+              },
+              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "projectName": "Post.Common",
+        "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -175,16 +309,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.Extensions.Options": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "MongoDB.Driver": {
-              "target": "Package",
-              "version": "[2.19.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

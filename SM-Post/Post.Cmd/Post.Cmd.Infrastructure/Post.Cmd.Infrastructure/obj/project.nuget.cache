@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7H8/vqoNJ/KusDLr2c4DM/Kcs0G839MOyXV+qunSoumMQBgRX5q8b5SGqC+3kSt4Ohqj3Nl6LddvvA1tZzaa/A==",
+  "dgSpecHash": "E42Ee47fM9Mugm4YyfAYNgf6ZQoRn2QimpBoOgEqcIK9jPA6F8JYCXKFpMZX6OcW1ERAgePH2ZTzuSiYc616fA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
   "expectedPackageFiles": [

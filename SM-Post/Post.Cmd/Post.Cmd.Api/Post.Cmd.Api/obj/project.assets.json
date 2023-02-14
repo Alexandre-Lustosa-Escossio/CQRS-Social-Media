@@ -441,19 +441,47 @@
           "bin/placeholder/CQRS.Core.dll": {}
         }
       },
+      "Post.Cmd.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CQRS.Core": "1.0.0",
+          "Post.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Post.Cmd.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Cmd.Domain.dll": {}
+        }
+      },
       "Post.Cmd.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "CQRS.Core": "1.0.0",
           "Microsoft.Extensions.Options": "7.0.0",
-          "MongoDB.Driver": "2.19.0"
+          "MongoDB.Driver": "2.19.0",
+          "Post.Cmd.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Post.Cmd.Infrastructure.dll": {}
         },
         "runtime": {
           "bin/placeholder/Post.Cmd.Infrastructure.dll": {}
+        }
+      },
+      "Post.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CQRS.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Post.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Common.dll": {}
         }
       }
     }
@@ -1125,10 +1153,20 @@
       "path": "../../../../CQRS-ES/CQRS.Core/CQRS.Core/CQRS.Core.csproj",
       "msbuildProject": "../../../../CQRS-ES/CQRS.Core/CQRS.Core/CQRS.Core.csproj"
     },
+    "Post.Cmd.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Post.Cmd.Domain/Post.Cmd.Domain/Post.Cmd.Domain.csproj",
+      "msbuildProject": "../../Post.Cmd.Domain/Post.Cmd.Domain/Post.Cmd.Domain.csproj"
+    },
     "Post.Cmd.Infrastructure/1.0.0": {
       "type": "project",
       "path": "../../Post.Cmd.Infrastructure/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj",
       "msbuildProject": "../../Post.Cmd.Infrastructure/Post.Cmd.Infrastructure/Post.Cmd.Infrastructure.csproj"
+    },
+    "Post.Common/1.0.0": {
+      "type": "project",
+      "path": "../../../Post.Common/Post.Common.csproj",
+      "msbuildProject": "../../../Post.Common/Post.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {

@@ -13,3 +13,7 @@ C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Pos
 C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\refint\Post.Cmd.Infrastructure.dll
 C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\Post.Cmd.Infrastructure.pdb
 C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\obj\Debug\net6.0\ref\Post.Cmd.Infrastructure.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Domain.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Common.dll
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Cmd.Domain.pdb
+C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\Post.Cmd.Infrastructure\bin\Debug\net6.0\Post.Common.pdb
