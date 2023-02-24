@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "57Tl+AYTJMuSjujWXUg4CYXYR0Mw2egODfoQfqCO6njgpiLc1+7/FE3C1jpbvOCNPA7c+ZUubAFJ2uGAm9QTxg==",
+  "dgSpecHash": "HgFw0PiFyTJMZVdLmIRb2xlDRjOP3rCh3dnGPY8mVy9bDpowj8TdfvUccqsqpVvotYmtgimQPNzoa8Ej69bVbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj",
+  "projectFilePath": "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jessi\\.nuget\\packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
-    "C:\\Users\\jessi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "C:\\Users\\alees\\.nuget\\packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
+    "C:\\Users\\alees\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

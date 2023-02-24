@@ -10,3 +10,15 @@ C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure
 C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\refint\Post.Query.Infrastructure.dll
 C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.pdb
 C:\Users\jessi\c#\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\ref\Post.Query.Infrastructure.dll
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\bin\Debug\net6.0\Post.Query.Infrastructure.deps.json
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\bin\Debug\net6.0\Post.Query.Infrastructure.dll
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\bin\Debug\net6.0\Post.Query.Infrastructure.pdb
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.csproj.AssemblyReference.cache
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.AssemblyInfoInputs.cache
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.AssemblyInfo.cs
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.csproj.CoreCompileInputs.cache
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.dll
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\refint\Post.Query.Infrastructure.dll
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\Post.Query.Infrastructure.pdb
+C:\git\CQRS-Social-Media\SM-Post\Post.Query\Post.Query.Infrastructure\Post.Query.Infrastructure\obj\Debug\net6.0\ref\Post.Query.Infrastructure.dll

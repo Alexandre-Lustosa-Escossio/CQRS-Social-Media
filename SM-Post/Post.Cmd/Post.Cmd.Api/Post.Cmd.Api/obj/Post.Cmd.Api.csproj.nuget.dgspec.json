@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {}
+    "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
+    "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj",
+        "projectUniqueName": "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj",
         "projectName": "CQRS.Core",
-        "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj",
-        "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\obj\\",
+        "projectPath": "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj",
+        "packagesPath": "C:\\Users\\alees\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alees\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,21 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {
+    "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+        "projectUniqueName": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
         "projectName": "Post.Cmd.Api",
-        "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
-        "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\obj\\",
+        "projectPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+        "packagesPath": "C:\\Users\\alees\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alees\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,11 +89,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
-                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
+              "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj"
+              "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+                "projectPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj"
               }
             }
           }
@@ -132,21 +132,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+    "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+        "projectUniqueName": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
         "projectName": "Post.Cmd.Domain",
-        "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
-        "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\obj\\",
+        "projectPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj",
+        "packagesPath": "C:\\Users\\alees\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alees\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,11 +160,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
-                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
+              "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj": {
-                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj"
+              "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj": {
+                "projectPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj"
               }
             }
           }
@@ -194,21 +194,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
+    "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "projectUniqueName": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
         "projectName": "Post.Cmd.Infrastructure",
-        "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\obj\\",
+        "projectPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\alees\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Infrastructure\\Post.Cmd.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alees\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -222,11 +222,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
-                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
+              "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
               },
-              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
-                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
+              "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+                "projectPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
               }
             }
           }
@@ -266,21 +266,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj": {
+    "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "projectUniqueName": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj",
         "projectName": "Post.Common",
-        "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj",
-        "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\obj\\",
+        "projectPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj",
+        "packagesPath": "C:\\Users\\alees\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alees\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -294,8 +294,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
-                "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
+              "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj": {
+                "projectPath": "C:\\git\\CQRS-Social-Media\\CQRS-ES\\CQRS.Core\\CQRS.Core\\CQRS.Core.csproj"
               }
             }
           }
@@ -325,7 +325,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
