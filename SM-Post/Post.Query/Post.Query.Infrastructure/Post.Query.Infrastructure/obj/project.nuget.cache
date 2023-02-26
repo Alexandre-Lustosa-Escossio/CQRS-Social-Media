@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lZ0QFBI34GUvcX4jQaPK21SvX+mTZKKBgNfqu/ewvL2oMGV/RatQLg+RxcI3ZlK1Ca3wNLmUR88sFAsTTpb0bQ==",
+  "dgSpecHash": "23B8qF/s2mtRV2K/ZHDlQ7ftIBCyho9UP/qh3kW0teeF25AnBJoY3PrFFbPNCPekb+El9N5ohgeet0Z7Rx63xw==",
   "success": true,
-  "projectFilePath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

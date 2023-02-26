@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alees\\.nuget\\packages\\": {}
+    "C:\\Users\\jessi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain\\Post.Query.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain\\Post.Query.Domain.csproj",
       "projectName": "Post.Query.Domain",
-      "projectPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain\\Post.Query.Domain.csproj",
-      "packagesPath": "C:\\Users\\alees\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain\\obj\\",
+      "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain\\Post.Query.Domain.csproj",
+      "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alees\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

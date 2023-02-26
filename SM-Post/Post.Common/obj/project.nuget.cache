@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3VLV/wYPdHpKHkUnf1APuVnVjYZm9SNVKWQ96pcOUL0++m7MrMKmrsHESV35yXIZvSEQ4+FmJ3CiCHOrCG0HQg==",
+  "dgSpecHash": "yI5gdc+Zi40uDCJbtQb8vK9WgZjmn1vQpa6tl4zd8c+bLQa5GgBabjMYeEu7VOswmuywPZusITKggJiWk0kCZg==",
   "success": true,
-  "projectFilePath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj",
+  "projectFilePath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alees\\.nuget\\packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
-    "C:\\Users\\alees\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "C:\\Users\\jessi\\.nuget\\packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
+    "C:\\Users\\jessi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

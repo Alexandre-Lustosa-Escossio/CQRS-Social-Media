@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Post.Cmd.Infrastructure": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "KAFKA_TOPIC": "SocialMediaPostEvents"
+      }
+    }
+  }
+}

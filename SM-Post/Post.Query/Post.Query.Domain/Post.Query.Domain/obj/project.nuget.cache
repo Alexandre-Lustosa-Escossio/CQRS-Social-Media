@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5avsQhOcSUh9Xe4pEcKyQpW6K51i/eAKuQye3FHuSr/6vF4DLZvH1dRKBzRjTv9gtlmvfPImiUZd2j7S4fKNVw==",
+  "dgSpecHash": "Yy+bWZL/JDGK2olE3RZ0+Xo/yRkcstvo+TFJU+UFyFf2niXsncANbGZY5koy9qcEFgoaFBFpce55jTgdlMfohA==",
   "success": true,
-  "projectFilePath": "C:\\git\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain\\Post.Query.Domain.csproj",
+  "projectFilePath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain\\Post.Query.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
