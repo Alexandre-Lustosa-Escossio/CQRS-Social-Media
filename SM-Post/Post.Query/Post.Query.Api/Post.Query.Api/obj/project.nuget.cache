@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T6E6m17uPPMYuryvHt6jj3GnAa67Z9ngkcY607n7uBmbikwYHAhqyTSZDmGv8nHZihTdv5SJTsfpwvnhNCalOQ==",
+  "dgSpecHash": "iomokl2cet1p1KpzrB3DiJv9JRsF7Ut9jejfsuC/k/FzW4ygolaZS3EL1106Wf/uRZgNEFU/fKQZJQ4gR8crXg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Api\\Post.Query.Api\\Post.Query.Api.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\jessi\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\jessi\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\jessi\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\jessi\\.nuget\\packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
     "C:\\Users\\jessi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\jessi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\jessi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

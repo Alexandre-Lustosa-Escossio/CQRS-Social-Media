@@ -234,6 +234,22 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "MongoDB.Bson/2.19.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "5.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/MongoDB.Bson.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/MongoDB.Bson.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.Diagnostics.EventLog/6.0.0": {
         "type": "package",
         "compile": {
@@ -274,6 +290,32 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "CQRS.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MongoDB.Bson": "2.19.0"
+        },
+        "compile": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        }
+      },
+      "Post.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CQRS.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Post.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Common.dll": {}
         }
       },
       "Post.Query.Domain/1.0.0": {
@@ -637,6 +679,25 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "MongoDB.Bson/2.19.0": {
+      "sha512": "pGp9F2PWU3Dj54PiXKibuaQ5rphWkfp8/Nsy5jLp2dWZGRGlr3r/Lfwnr0PvfihFfxieUcJZ2z3VeO8RctXcvA==",
+      "type": "package",
+      "path": "mongodb.bson/2.19.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.txt",
+        "lib/net472/MongoDB.Bson.dll",
+        "lib/net472/MongoDB.Bson.xml",
+        "lib/netstandard2.0/MongoDB.Bson.dll",
+        "lib/netstandard2.0/MongoDB.Bson.xml",
+        "lib/netstandard2.1/MongoDB.Bson.dll",
+        "lib/netstandard2.1/MongoDB.Bson.xml",
+        "mongodb.bson.2.19.0.nupkg.sha512",
+        "mongodb.bson.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "System.Diagnostics.EventLog/6.0.0": {
       "sha512": "lcyUiXTsETK2ALsZrX+nWuHSIQeazhqPphLfaRxzdGaG93+0kELqpgEHtwWOlQe7+jSFnKwaCAgL4kjeZCQJnw==",
       "type": "package",
@@ -693,6 +754,16 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "CQRS.Core/1.0.0": {
+      "type": "project",
+      "path": "../../../../CQRS-ES/CQRS.Core/CQRS.Core/CQRS.Core.csproj",
+      "msbuildProject": "../../../../CQRS-ES/CQRS.Core/CQRS.Core/CQRS.Core.csproj"
+    },
+    "Post.Common/1.0.0": {
+      "type": "project",
+      "path": "../../../Post.Common/Post.Common.csproj",
+      "msbuildProject": "../../../Post.Common/Post.Common.csproj"
+    },
     "Post.Query.Domain/1.0.0": {
       "type": "project",
       "path": "../../Post.Query.Domain/Post.Query.Domain/Post.Query.Domain.csproj",
@@ -703,6 +774,7 @@
     "net6.0": [
       "Microsoft.EntityFrameworkCore >= 7.0.3",
       "Microsoft.EntityFrameworkCore.Proxies >= 7.0.3",
+      "Post.Common >= 1.0.0",
       "Post.Query.Domain >= 1.0.0"
     ]
   },
@@ -733,6 +805,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj": {
+              "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Common\\Post.Common.csproj"
+            },
             "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain\\Post.Query.Domain.csproj": {
               "projectPath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Domain\\Post.Query.Domain\\Post.Query.Domain.csproj"
             }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ddx1JO0Uf3SJwvzerFSbFviY3hXc+gsKBaqybdLLJGlh0py+I3Jcp9P2qtpu2HFm2oOwxAab6qRq0PuiAFDy/A==",
+  "dgSpecHash": "tsr00N5xygqlvpT+JR0HydqcaPwF9WtbE3OvswArLMODrNglbCrdwTepaYS3HVNDiG40G+dh3lV2c41ZLDz1fQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jessi\\c#\\CQRS-Social-Media\\SM-Post\\Post.Query\\Post.Query.Infrastructure\\Post.Query.Infrastructure\\Post.Query.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\jessi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\jessi\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\jessi\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\jessi\\.nuget\\packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
     "C:\\Users\\jessi\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\jessi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
