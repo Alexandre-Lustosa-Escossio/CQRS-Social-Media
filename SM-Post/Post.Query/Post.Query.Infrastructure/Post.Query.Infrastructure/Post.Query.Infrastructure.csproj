@@ -7,11 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="2.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.3" />
 	<PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="7.0.3" />
+	<PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="7.0.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\Post.Common\Post.Common.csproj" />
     <ProjectReference Include="..\..\Post.Query.Domain\Post.Query.Domain\Post.Query.Domain.csproj" />
   </ItemGroup>
 
